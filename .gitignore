@@ -1,0 +1,23 @@
+# OSX
+#
+.DS_Store
+
+# compiled output
+*dist/
+*tmp/
+
+# dependencies
+*node_modules
+package-lock.json
+
+# misc
+*.pnp*
+*.sass-cache
+*connect.lock
+*coverage/
+*libpeerconnection.log
+*npm-debug.log*
+*yarn-error.log
+
+data/
+data
